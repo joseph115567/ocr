@@ -1,0 +1,10 @@
+{
+    "prompt": "From a ground-level balanced viewpoint of A professional Microsoft Word business report with tables, charts, headers, footers, page numbers, formatted text, and annotations in Arabic in a corporate setting., and this photo take by Canon EOS 5D Mark II, highly realistic, photorealistic, detailed, high-resolution, natural lighting, no artifacts",
+    "base_prompt": "A professional Microsoft Word business report with tables, charts, headers, footers, page numbers, formatted text, and annotations in Arabic in a corporate setting.",
+    "variant": "From a ground-level balanced viewpoint of ",
+    "size": "1024x1024",
+    "guidance_scale": 5.841451943413512,
+    "steps": 50,
+    "seed": 8010,
+    "type": "pretrain"
+}
